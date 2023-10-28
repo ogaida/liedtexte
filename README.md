@@ -2,7 +2,7 @@
 
 Liedtexte zum mitsingen in der Kinderkirche und auf öffentlichen Veranstaltungen in Breitenberg.
 
-# Kategorien
+# Liedthemen
 
 {% assign sorted_site_categories = site.categories | sort %}
 {% for category in sorted_site_categories %}
