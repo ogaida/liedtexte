@@ -13,7 +13,7 @@ als Lied erklingt,
 
 ##### Refrain:
 
-Refrain: dann hat Gott unter uns schon sein Haus gebaut,
+dann hat Gott unter uns schon sein Haus gebaut,
 dann wohnt er schon in unserer Welt.
 Ja, dann schauen wir heut schon sein Angesicht
 in der Liebe, die alles umfängt,
